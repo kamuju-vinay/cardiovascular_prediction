@@ -1,0 +1,2 @@
+# cardiovascular_prediction
+cardiovascular _disease prediction_using_Squeeze Atttention network
